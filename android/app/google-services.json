@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "989267935189",
+    "firebase_url": "https://tourguideapplication-2ec9d.firebaseio.com",
+    "project_id": "tourguideapplication-2ec9d",
+    "storage_bucket": "tourguideapplication-2ec9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989267935189:android:3b94de1ffe6d8cfad9875c",
+        "android_client_info": {
+          "package_name": "com.tourguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989267935189-76ocl05sp6ed69gttgrdk1ce54ug68f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7l_-T1g4sF0xLpjjbYfV93pQ2HQJoN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989267935189-76ocl05sp6ed69gttgrdk1ce54ug68f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989267935189:android:947ac6fb00707e65d9875c",
+        "android_client_info": {
+          "package_name": "com.tourguideapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989267935189-hnn38fkg60apkqs3ib6qo70rao77ggba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourguideapplication",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "989267935189-76ocl05sp6ed69gttgrdk1ce54ug68f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7l_-T1g4sF0xLpjjbYfV93pQ2HQJoN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989267935189-76ocl05sp6ed69gttgrdk1ce54ug68f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
